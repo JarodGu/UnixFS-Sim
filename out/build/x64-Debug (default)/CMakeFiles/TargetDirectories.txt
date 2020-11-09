@@ -1,3 +1,0 @@
-J:/Dropbox/17th Grade (SS)/Summer/CSS 430 A/UnixFileSystem/out/build/x64-Debug (default)/CMakeFiles/UnixFileSystem.dir
-J:/Dropbox/17th Grade (SS)/Summer/CSS 430 A/UnixFileSystem/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
-J:/Dropbox/17th Grade (SS)/Summer/CSS 430 A/UnixFileSystem/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
